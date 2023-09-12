@@ -69,6 +69,7 @@ section{
 
 #b-principal{
     width: 100vw;
+    object-fit: contain;
 }
 
 #destino{
